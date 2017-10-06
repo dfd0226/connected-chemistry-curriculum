@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="80.645px" height="44.004px" viewBox="0 0 80.645 44.004" enable-background="new 0 0 80.645 44.004" xml:space="preserve">
+<g id="object">
+	<g>
+		<path fill="#FF0000" stroke="#000000" stroke-miterlimit="10" d="M57.34,9.921c-3.914-1.946-8.697-1.96-12.768,0.39
+			c-1.738,1.004-4.247,3.877-4.247,3.877l-0.007,15.627c3.984,5.625,11.667,7.394,17.753,3.879c4.069-2.351,6.448-6.5,6.722-10.862
+			L57.34,9.921z"/>
+		<path fill="#FFFFFF" stroke="#1D1D1B" stroke-miterlimit="10" d="M15.852,21.173c-3.063-1.087-6.564-0.883-9.6,0.87
+			c-5.5,3.175-7.385,10.208-4.209,15.709c3.176,5.501,10.209,7.385,15.709,4.209c3.036-1.753,4.963-4.682,5.554-7.878L15.852,21.173
+			z"/>
+		<path fill="#FF0000" stroke="#000000" stroke-miterlimit="10" d="M40.326,14.189c-3.983-5.625-11.666-7.393-17.754-3.877
+			c-4.07,2.35-6.448,6.498-6.72,10.861l7.454,12.91c3.916,1.945,8.697,1.96,12.767-0.391c1.738-1.004,3.156-2.342,4.247-3.877
+			L40.326,14.189z"/>
+		<path fill="#FFFFFF" stroke="#1D1D1B" stroke-miterlimit="10" d="M78.602,6.252c-3.176-5.501-10.209-7.385-15.709-4.209
+			c-3.035,1.753-4.963,4.682-5.553,7.878l7.453,12.91c3.062,1.087,6.563,0.883,9.6-0.87C79.893,18.786,81.779,11.753,78.602,6.252z"
+			/>
+	</g>
+</g>
+<g id="circles">
+	<circle id="Hydrogen_1_" fill="none" cx="12" cy="32.004" r="11.5"/>
+	<circle id="Hydrogen" fill="none" cx="68.743" cy="12" r="11.5"/>
+	<circle id="Oxygen_1_" fill="none" cx="51.315" cy="22.03" r="13.472"/>
+	<circle id="Oxygen" fill="none" cx="29.324" cy="22.03" r="13.472"/>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px"
+	 height="27px" viewBox="0 0 48 27" enable-background="new 0 0 48 27" xml:space="preserve">
+<g id="object">
+	<g>
+		<path fill="#0000FF" stroke="#000000" stroke-miterlimit="10" d="M24,5.857C21.636,2.615,17.819,0.5,13.5,0.5
+			c-7.18,0-13,5.82-13,13s5.82,13,13,13c4.319,0,8.136-2.115,10.5-5.357V5.857z"/>
+		<path fill="#0000FF" stroke="#000000" stroke-miterlimit="10" d="M34.5,0.5c-4.319,0-8.136,2.115-10.5,5.357v15.285
+			c2.364,3.242,6.181,5.357,10.5,5.357c7.18,0,13-5.82,13-13S41.68,0.5,34.5,0.5z"/>
+	</g>
+</g>
+<g id="circles">
+	<circle id="Nitrogen_1_" fill="none" cx="13.5" cy="13.5" r="13"/>
+	<circle id="Nitrogen" fill="none" cx="34.5" cy="13.5" r="13"/>
+</g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px"
+	 height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g id="object">
+	<g>
+		<radialGradient id="SVGID_1_" cx="20.7158" cy="19.1914" r="59.4308" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#ED1C24"/>
+			<stop  offset="0.1431" style="stop-color:#E91C24"/>
+			<stop  offset="0.2542" style="stop-color:#E11B22"/>
+			<stop  offset="0.3547" style="stop-color:#D41920"/>
+			<stop  offset="0.4488" style="stop-color:#C3151C"/>
+			<stop  offset="0.5386" style="stop-color:#AC1015"/>
+			<stop  offset="0.625" style="stop-color:#910508"/>
+			<stop  offset="0.7073" style="stop-color:#730000"/>
+			<stop  offset="0.7546" style="stop-color:#5E0000"/>
+			<stop  offset="0.7818" style="stop-color:#670000"/>
+			<stop  offset="0.8311" style="stop-color:#7E0000"/>
+			<stop  offset="0.897" style="stop-color:#A30D11"/>
+			<stop  offset="0.9762" style="stop-color:#D91A21"/>
+			<stop  offset="1" style="stop-color:#ED1C24"/>
+		</radialGradient>
+		<circle fill="url(#SVGID_1_)" cx="24" cy="24" r="24"/>
+	</g>
+</g>
+<g id="circles">
+		<circle id="Proton" fill="none" cx="24" cy="24" r="24"/>
+</g>
+</svg>

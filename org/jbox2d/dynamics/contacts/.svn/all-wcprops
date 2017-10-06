@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/488/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/contacts
+END
+ContactConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/contacts/ContactConstraint.java
+END
+ContactEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/contacts/ContactEdge.java
+END
+ContactRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/contacts/ContactRegister.java
+END
+TOIConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/contacts/TOIConstraint.java
+END
+PolygonContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/contacts/PolygonContact.java
+END
+TOISolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/contacts/TOISolver.java
+END
+ContactSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/contacts/ContactSolver.java
+END
+PolygonAndCircleContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/contacts/PolygonAndCircleContact.java
+END
+ContactConstraintPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/contacts/ContactConstraintPoint.java
+END
+Contact.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/488/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/contacts/Contact.java
+END
+ContactCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/contacts/ContactCreator.java
+END
+CircleContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/contacts/CircleContact.java
+END

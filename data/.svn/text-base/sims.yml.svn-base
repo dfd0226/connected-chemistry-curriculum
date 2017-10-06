@@ -1,0 +1,139 @@
+units:
+- unit: 0
+  name: "Default"
+  compounds:
+  - compound: "Water"
+    qty: 1
+- unit: 1
+  name: "Modeling Matter"
+  sims:
+  - sim: 1
+    name: "Making Scientific Observations"
+    sets:
+    - set: 1
+      compounds:
+      - compound: "Water"
+        qty: 5
+  - sim: 2
+    name: "Submicroscopic Representation"
+    sets:
+    - set: 1
+      compounds:
+      - compound: "Water"
+        qty: 10
+    - set: 2
+      compounds:
+      - compound: "Hydrogen Peroxide"
+        qty: 10
+    - set: 3
+      compounds:
+      - compound: "Pentane"
+        qty: 10
+    - set: 4
+      compounds:
+      - compound: "Mercury"
+        qty: 10
+    - set: 5
+      compounds:
+      - compound: "Bromine"
+        qty: 10
+    - set: 6
+      compounds:
+      - compound: "Sodium Chloride"
+        qty: 10
+  - sim: 3
+    name: "Physical Changes"
+    sets:
+    - set: 1
+      compounds:
+      - compound: "Water"
+        qty: 50
+  - sim: 4
+    name: "Chemical Changes"
+    sets:
+    - set: 1
+      compounds:
+      - compound: "Hydrogen Peroxide"
+        qty: 10
+  - sim: 5
+    name: "Mixtures"
+    sets:
+    - set: 1
+      compounds:
+      - compound: "Water"
+        qty: 10
+      - compound: "Bromine"
+        qty: 10
+    - set: 2
+      compounds:
+      - compound: "Water"
+        qty: 10
+      - compound: "Mercury"
+        qty: 10
+    - set: 3
+      compounds:
+      - compound: "Water"
+        qty: 10
+      - compound: "Hydrogen Peroxide"
+        qty: 10
+    - set: 4
+      compounds:
+      - compound: "Water"
+        qty: 10
+      - compound: "Pentane"
+        qty: 10
+    - set: 5
+      compounds:
+      - compound: "Water"
+        qty: 10
+      - compound: "Bromine"
+        qty: 10
+      - compound: "Hydrogen Peroxide"
+        qty: 10
+    - set: 6
+      compounds:
+      - compound: "Water"
+        qty: 10
+      - compound: "Bromine"
+        qty: 10
+      - compound: "Pentane"
+        qty: 10
+- unit: 2
+  name: "Solutions"
+- unit: 3
+  name: "Reactions and Stoichiometry"
+  sims:
+  - sim: 1
+    name: "Making Scientific Observations"
+    sets:
+    - set: 1
+      compounds:
+      - compound: "Water"
+        qty: 5
+- unit: 4
+  name: "Pressure and Gas Laws"
+- unit: 5
+  name: "Thermodynamics"
+- unit: 6
+  name: "Kinetics"
+- unit: 7
+  name: "Chemical Equilibrium"
+- unit: 8
+  name: "Acids and Bases"
+  sims:
+  - sim: 1
+    name: "pH"
+  - sim: 2
+    name: "Bronsted/Lowry or Lewis Selection"
+  - sim: 3
+    name: "Strong and Weak Acids"
+  - sim: 4
+    name: "Identifying Acids and Bases"
+  - sim: 5
+    name: "Neutralization Reactions"
+  - sim: 6
+    name: "Titration Curves"
+  - sim: 7
+    name: "Buffers"
+- unit: 9
+  name: "Nuclear"

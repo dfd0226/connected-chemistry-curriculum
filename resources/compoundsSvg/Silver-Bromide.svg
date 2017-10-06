@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="108.015px" height="58.007px" viewBox="0 0 108.015 58.007" enable-background="new 0 0 108.015 58.007"
+	 xml:space="preserve">
+<g id="object">
+	<path fill="#B1B1B1" d="M79.015,0.007c-15.991,0-29,13.009-29,29s13.009,29,29,29c15.99,0,29-13.009,29-29
+		S95.005,0.007,79.015,0.007z"/>
+	<path fill="#B1B1B1" d="M25,4.007c-13.785,0-25,11.215-25,25s11.215,25,25,25s25-11.215,25-25S38.785,4.007,25,4.007z"/>
+	<circle fill="#005555" stroke="#000000" stroke-miterlimit="10" cx="79.015" cy="29.007" r="24"/>
+	<circle fill="#A9A9FF" stroke="#000000" stroke-miterlimit="10" cx="25" cy="29.007" r="20"/>
+</g>
+<g id="circles">
+	<circle id="Silver-Ion" fill="none" cx="25.007" cy="29" r="25.007"/>
+	<circle id="Bromine-Ion" fill="none" cx="79.015" cy="29.007" r="29"/>
+</g>
+</svg>

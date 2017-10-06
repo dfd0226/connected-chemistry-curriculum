@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="117.833px" height="48px" viewBox="0 0 117.833 48" enable-background="new 0 0 117.833 48" xml:space="preserve">
+<g id="object">
+	<circle id="Dot_3_" fill="#231F20" cx="89.588" cy="27" r="1.5"/>
+	<circle id="Dot_2_" fill="#231F20" cx="89.588" cy="21" r="1.5"/>
+	<circle id="Dot_1_" fill="#231F20" cx="52.588" cy="27" r="1.5"/>
+	<circle id="Dot" fill="#231F20" cx="52.588" cy="21" r="1.5"/>
+	<circle id="Hydrogen" fill="#FFFFFF" stroke="#1D1D1B" stroke-miterlimit="10" cx="105.833" cy="24" r="11.5"/>
+	<circle id="Oxygen" fill="#FF0000" stroke="#000000" stroke-miterlimit="10" cx="71.087" cy="24" r="13.5"/>
+	<circle id="Dot_7_" fill="#231F20" cx="68.087" cy="42.5" r="1.5"/>
+	<circle id="Dot_6_" fill="#231F20" cx="74.087" cy="42.5" r="1.5"/>
+	<circle id="Dot_5_" fill="#231F20" cx="68.087" cy="5.5" r="1.5"/>
+	<circle id="Dot_4_" fill="#231F20" cx="74.087" cy="5.5" r="1.5"/>
+	<circle id="Sodium" fill="#5F5F5F" stroke="#000000" stroke-miterlimit="10" cx="24" cy="24" r="23.5"/>
+</g>
+<g id="circles">
+	<circle id="Dot_15_" fill="none" cx="89.588" cy="27" r="1.5"/>
+	<circle id="Dot_14_" fill="none" cx="89.588" cy="21" r="1.5"/>
+	<circle id="Dot_13_" fill="none" cx="52.588" cy="27" r="1.5"/>
+	<circle id="Dot_12_" fill="none" cx="52.588" cy="21" r="1.5"/>
+	<circle id="Dot_11_" fill="none" cx="68.087" cy="42.5" r="1.5"/>
+	<circle id="Dot_10_" fill="none" cx="74.087" cy="42.5" r="1.5"/>
+	<circle id="Dot_9_" fill="none" cx="68.087" cy="5.5" r="1.5"/>
+	<circle id="Dot_8_" fill="none" cx="74.087" cy="5.5" r="1.5"/>
+	<circle id="Oxygen_1_" fill="none" cx="71.087" cy="24" r="13.5"/>
+	<circle id="Sodium_1_" fill="none" cx="24" cy="24" r="23.5"/>
+	<circle id="Hydrogen_1_" fill="none" cx="105.833" cy="24" r="11.5"/>
+</g>
+</svg>

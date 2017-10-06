@@ -1,0 +1,164 @@
+package main;
+import java.awt.EventQueue;
+
+import javax.swing.*;
+import javax.swing.event.*;
+import net.miginfocom.swing.MigLayout;
+
+import view.*;
+import control.*;
+//Test comment
+//import model.*;
+
+import java.awt.Canvas;
+import java.awt.Panel;
+import java.awt.event.*;
+import java.awt.Color;
+import javax.swing.border.BevelBorder;
+import java.awt.CardLayout;
+
+
+public class Simulation {
+
+	private JFrame frmConnectedChemistrySimulations;
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					Simulation window = new Simulation();
+					window.frmConnectedChemistrySimulations.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the application.
+	 */
+	public Simulation() {
+		initialize();
+	}
+
+
+	// Demo
+	BouncyBalls bouncer = new BouncyBalls();
+	BouncyBalls_Controller bouncer_controller = new BouncyBalls_Controller(bouncer);
+
+	// Test Dialog
+	TestDialog testDialog = new TestDialog();
+
+	// Test Panel
+	JPanel testPanel = new JPanel();
+
+	/**
+	 * Initialize the contents of the frame.
+	 */
+	private void initialize() {
+		frmConnectedChemistrySimulations = new JFrame();
+		frmConnectedChemistrySimulations.setTitle("Connected Chemistry Simulations");
+		frmConnectedChemistrySimulations.setBounds(100, 100, 600, 450);
+		frmConnectedChemistrySimulations.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frmConnectedChemistrySimulations.getContentPane().setLayout(new MigLayout("", "[fill][grow,fill]", "[grow,fill][]"));
+
+		// Controller and View Initialization
+		bouncer.init();
+
+		// control panel
+		JPanel controlPanel = new JPanel();
+		frmConnectedChemistrySimulations.getContentPane().add(controlPanel, "cell 0 0,grow");
+		controlPanel.setLayout(new MigLayout("", "[grow]", "[][grow,fill]"));
+
+		JRadioButton rb1 = new JRadioButton("1", true);
+		JRadioButton rb2 = new JRadioButton("2", false);
+
+
+		ButtonGroup rbGroup = new ButtonGroup();
+
+		rbGroup.add(rb1);
+		rbGroup.add(rb2);
+
+		JPanel radioPanel = new JPanel();
+		radioPanel.add(rb1);
+		radioPanel.add(rb2);
+
+		// handle radio button events
+		ActionListener changePanel = new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				String keyNum = e.getActionCommand();
+				System.out.println(keyNum);
+
+				CardLayout cl = (CardLayout)testPanel.getLayout();
+				cl.show(testPanel, keyNum);
+			}
+		};
+
+		rb1.addActionListener(changePanel);
+		rb2.addActionListener(changePanel);
+
+
+
+		controlPanel.add(radioPanel, "cell 0 0");
+
+		controlPanel.add(testPanel, "cell 0 1,grow");
+		testPanel.setLayout(new CardLayout(0, 0));
+
+
+		// Simulation Panel 1
+		JPanel sim1 = new JPanel();
+		sim1.setBackground(new Color(255, 255, 255));
+		testPanel.add(sim1, "1");
+		sim1.setLayout(new MigLayout("", "[]", "[]"));
+
+		JLabel lblThisIsPanel = new JLabel("This is Panel 1");
+		sim1.add(lblThisIsPanel, "cell 0 0");
+
+		// Simulation Panel 2
+		JPanel sim2 = new JPanel();
+		sim2.setBackground(new Color(255, 255, 255));
+		testPanel.add(sim2, "2");
+		sim2.setLayout(new MigLayout("", "[]", "[]"));
+
+		JLabel lblThisIsPanel_1 = new JLabel("This is Panel 2");
+		sim2.add(lblThisIsPanel_1, "cell 0 0");
+
+
+		Panel demoPanel = new Panel();
+		frmConnectedChemistrySimulations.getContentPane().add(demoPanel, "cell 1 0");
+		demoPanel.setLayout(new MigLayout("", "[]", "[]"));
+		demoPanel.add(bouncer, "cell 0 0,alignx left,aligny top");
+
+		JButton btnLaunchDialog = new JButton("Launch Dialog");
+		frmConnectedChemistrySimulations.getContentPane().add(btnLaunchDialog, "cell 0 1");
+		btnLaunchDialog.addMouseListener(new MouseAdapter() {
+			@Override
+			public void mousePressed(MouseEvent arg0) {
+				testDialog.main();
+			}
+		});
+
+		// demo background color slider
+		int maxForDemoSlider = 256;
+		JSlider demoSlider = new JSlider(JSlider.HORIZONTAL, 0, maxForDemoSlider, maxForDemoSlider/2);
+		frmConnectedChemistrySimulations.getContentPane().add(demoSlider, "cell 1 1");
+		bouncer.setBotTemp(demoSlider.getMaximum()/2);
+
+		// handle js1 change events
+		demoSlider.addChangeListener(new ChangeListener() {
+			public void stateChanged(ChangeEvent evt) {
+				JSlider slider = (JSlider)evt.getSource();
+				bouncer.setBotTemp(slider.getValue());
+			}
+		}
+		);
+	}
+
+
+}

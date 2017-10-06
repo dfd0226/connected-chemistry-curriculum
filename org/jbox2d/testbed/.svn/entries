@@ -1,0 +1,40 @@
+8
+
+dir
+495
+http://jbox2d.googlecode.com/svn/trunk/jbox2d-testbed/src/main/java/org/jbox2d/testbed
+http://jbox2d.googlecode.com/svn
+
+
+
+2011-07-06T01:28:31.394954Z
+456
+toucansam99@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bc622014-446a-afc6-a9a4-7d0e215fe39e
+
+tests
+dir
+
+pooling
+dir
+
+perf
+dir
+
+framework
+dir
+

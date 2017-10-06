@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="85px"
+	 height="66.956px" viewBox="0 0 85 66.956" enable-background="new 0 0 85 66.956" xml:space="preserve">
+<g id="object">
+	<path fill="#B1B1B1" d="M54,33.45c0-7.451-4.646-13.974-11.254-16.67c0.001-0.093,0.002-0.187,0.002-0.28
+		c0-9.098-7.402-16.5-16.5-16.5s-16.5,7.402-16.5,16.5c0,0.624,0.036,1.246,0.106,1.864C4.017,20.903,0,26.696,0,33.477
+		c0,6.78,4.017,12.573,9.854,15.113c-0.07,0.618-0.106,1.241-0.106,1.865c0,9.098,7.402,16.5,16.5,16.5s16.5-7.402,16.5-16.5
+		c0-0.112-0.001-0.224-0.003-0.335C49.354,47.426,54,40.906,54,33.45z"/>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="26.248" cy="16.5" r="11.5"/>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="26.248" cy="50.456" r="11.5"/>
+	<circle fill="#0000FF" stroke="#000000" stroke-miterlimit="10" cx="36" cy="33.45" r="13"/>
+	<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M25.148,41.04c1.771-2.022,1.765-13.116-0.013-15.14
+		c-2.108-2.401-5.19-3.923-8.635-3.923c-6.352,0-11.5,5.148-11.5,11.5c0,6.35,5.148,11.499,11.499,11.5
+		C19.951,44.976,23.039,43.448,25.148,41.04z"/>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="73" cy="33.477" r="11.5"/>
+	<path fill="#2F2F2F" stroke="#000000" stroke-miterlimit="10" d="M58.5,18.977c-5.104,0-9.584,2.645-12.168,6.632l0,15.736
+		c2.583,3.987,7.063,6.632,12.168,6.632c8.01,0,14.5-6.492,14.5-14.5C73,25.469,66.509,18.977,58.5,18.977z"/>
+	<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M71.143,40.338c-2.638-0.52-12.244,5.031-13.106,7.584
+		c-1.026,3.023-0.802,6.455,0.919,9.439c3.178,5.5,10.207,7.383,15.71,4.209c5.499-3.176,7.384-10.209,4.208-15.709
+		C77.148,42.872,74.28,40.961,71.143,40.338z"/>
+	<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M58.125,18.997c0.866,2.545,10.477,8.087,13.118,7.559
+		c3.133-0.625,5.992-2.533,7.715-5.518c3.176-5.5,1.291-12.533-4.209-15.709C69.25,2.154,62.215,4.038,59.04,9.538
+		C57.314,12.527,57.093,15.967,58.125,18.997z"/>
+</g>
+<g id="circles">
+	<circle id="Hydrogen_5_" fill="none" cx="69.002" cy="15.285" r="11.498"/>
+	<circle id="Hydrogen_4_" fill="none" cx="69.002" cy="51.708" r="11.498"/>
+	<circle id="Hydrogen_3_" fill="none" cx="72.999" cy="33.477" r="11.498"/>
+	<circle id="Hydrogen-Ion_2_" fill="none" cx="26.248" cy="16.129" r="16.129"/>
+	<circle id="Hydrogen-Ion_1_" fill="none" cx="26.248" cy="50.456" r="16.5"/>
+	<circle id="Hydrogen-Ion" fill="none" cx="16.498" cy="33.45" r="16.5"/>
+	<circle id="Nitrogen-Ion" fill="none" cx="36" cy="33.45" r="18.165"/>
+	<circle id="Carbon" fill="none" cx="58.375" cy="33.45" r="14.473"/>
+</g>
+</svg>

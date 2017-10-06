@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="80.66px"
+	 height="60.253px" viewBox="0 0 80.66 60.253" enable-background="new 0 0 80.66 60.253" xml:space="preserve">
+<g id="object">
+	<g>
+		<path fill="#0000FF" stroke="#000000" stroke-miterlimit="10" d="M45.532,34.026c-0.415-3.672-2.362-6.871-5.185-8.964H24.897
+			c-2.822,2.092-4.77,5.291-5.186,8.964l7.732,13.396c1.588,0.691,3.337,1.079,5.179,1.079s3.591-0.388,5.178-1.078L45.532,34.026z"
+			/>
+		<path fill="#FF0000" stroke="#000000" stroke-miterlimit="10" d="M19.711,34.026c-3.856-1.797-8.495-1.756-12.458,0.533
+			C0.794,38.288-1.417,46.542,2.311,53c3.728,6.457,11.983,8.669,18.442,4.94c3.962-2.288,6.317-6.282,6.69-10.52L19.711,34.026z"/>
+		<path fill="#FF0000" stroke="#000000" stroke-miterlimit="10" d="M40.348,25.062c3.488-2.44,5.774-6.481,5.774-11.062
+			c0-7.458-6.044-13.5-13.5-13.5s-13.5,6.043-13.5,13.5c0,4.58,2.287,8.621,5.775,11.062H40.348z"/>
+	</g>
+	<g>
+		<path fill="#FF0000" stroke="#000000" stroke-miterlimit="10" d="M57.376,34.253c-3.824-1.956-8.183-1.933-11.844-0.228
+			L37.8,47.422c0.373,4.236,2.729,8.231,6.691,10.52C50.949,61.67,59.204,59.458,62.933,53c1.057-1.829,1.62-3.804,1.761-5.777
+			L57.376,34.253z"/>
+		<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M78.617,30.68c-3.175-5.5-10.208-7.385-15.71-4.209
+			c-3.004,1.735-4.92,4.623-5.531,7.782l7.317,12.97c3.091,1.133,6.642,0.94,9.714-0.833C79.909,43.214,81.793,36.181,78.617,30.68z
+			"/>
+	</g>
+</g>
+<g id="circles">
+	<circle id="Oxygen_2_" fill="none" cx="32.622" cy="14" r="13.5"/>
+	<circle id="Nitrogen" fill="none" cx="32.622" cy="35.495" r="13.006"/>
+	<circle id="Oxygen_1_" fill="none" cx="14" cy="46.252" r="13.5"/>
+	<circle id="Oxygen" fill="none" cx="51.247" cy="46.252" r="13.5"/>
+	<circle id="Hydrogen" fill="none" cx="68.768" cy="36.429" r="11.501"/>
+</g>
+</svg>

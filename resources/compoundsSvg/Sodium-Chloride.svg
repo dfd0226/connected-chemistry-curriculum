@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="99px"
+	 height="56px" viewBox="0 0 99 56" enable-background="new 0 0 99 56" xml:space="preserve">
+<g id="object">
+	<path fill="#B1B1B1" d="M71,0C55.561,0,43,12.561,43,28s12.561,28,28,28s28-12.561,28-28S86.439,0,71,0z"/>
+	<path fill="#B1B1B1" d="M21.5,6.5C9.645,6.5,0,16.145,0,28c0,11.855,9.645,21.5,21.5,21.5C33.355,49.5,43,39.855,43,28
+		C43,16.145,33.355,6.5,21.5,6.5z"/>
+	<circle fill="#00FF00" stroke="#000000" stroke-miterlimit="10" cx="71" cy="28" r="23"/>
+	<circle fill="#5F5F5F" stroke="#000000" stroke-miterlimit="10" cx="21.5" cy="28" r="16.5"/>
+</g>
+<g id="circles">
+	<circle id="Sodium-Ion" fill="none" cx="21.485" cy="28" r="21.485"/>
+	<circle id="Chloride-Ion" fill="none" cx="71" cy="28" r="28"/>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="51px"
+	 height="34px" viewBox="0 0 51 34" enable-background="new 0 0 51 34" xml:space="preserve">
+<g id="object">
+	<g>
+		<path fill="#FFFFFF" stroke="#1D1D1B" stroke-miterlimit="10" d="M19.823,8.588C17.771,6.678,15.026,5.5,12,5.5
+			C5.649,5.5,0.5,10.649,0.5,17c0,6.352,5.149,11.5,11.5,11.5c3.026,0,5.771-1.178,7.824-3.088L19.823,8.588z"/>
+		<path fill="#00FF00" stroke="#000000" stroke-miterlimit="10" d="M34,0.5c-6.036,0-11.3,3.251-14.177,8.088l0,16.824
+			C22.7,30.249,27.964,33.5,34,33.5c9.113,0,16.5-7.387,16.5-16.5S43.113,0.5,34,0.5z"/>
+	</g>
+</g>
+<g id="circles">
+	<circle id="Chlorine" fill="none" cx="34" cy="17" r="16.5"/>
+	<circle id="Hydrogen" fill="none" cx="12" cy="17" r="11.5"/>
+</g>
+</svg>

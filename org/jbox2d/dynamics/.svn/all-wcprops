@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics
+END
+BodyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/BodyType.java
+END
+FixtureDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/FixtureDef.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/Filter.java
+END
+ContactManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/ContactManager.java
+END
+Fixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/Fixture.java
+END
+World.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/493/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/World.java
+END
+TimeStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/TimeStep.java
+END
+Island.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/Island.java
+END
+BodyDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/BodyDef.java
+END
+Body.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/dynamics/Body.java
+END

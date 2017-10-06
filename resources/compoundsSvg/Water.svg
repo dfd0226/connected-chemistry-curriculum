@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="58.645px" height="36.005px" viewBox="0 0 58.645 36.005" enable-background="new 0 0 58.645 36.005" xml:space="preserve">
+<g id="object">
+	<path fill="#FFFFFF" stroke="#1D1D1B" stroke-miterlimit="10" d="M52.393,14.043c-3.036-1.753-6.536-1.957-9.6-0.869l-7.454,12.909
+		c0.59,3.196,2.518,6.126,5.553,7.879c5.502,3.177,12.533,1.292,15.711-4.21C59.777,24.253,57.894,17.219,52.393,14.043z"/>
+	<path fill="#FFFFFF" stroke="#1D1D1B" stroke-miterlimit="10" d="M15.859,13.175c-3.065-1.09-6.569-0.887-9.607,0.867
+		c-5.5,3.176-7.385,10.209-4.209,15.709s10.209,7.385,15.709,4.209c3.04-1.755,4.969-4.689,5.556-7.891L15.859,13.175z"/>
+	<path fill="#FF0000" stroke="#000000" stroke-miterlimit="10" d="M42.793,13.174c-0.272-4.364-2.651-8.513-6.722-10.863
+		c-6.457-3.728-14.713-1.515-18.44,4.942c-1.083,1.874-1.65,3.9-1.772,5.922l7.449,12.895c3.904,1.948,8.349,1.843,12.032,0.013
+		L42.793,13.174z"/>
+</g>
+<g id="circles">
+	<circle id="Hydrogen_1_" fill="none" cx="12.015" cy="23.988" r="11.515"/>
+	<circle id="Hydrogen" fill="none" cx="46.63" cy="23.988" r="11.515"/>
+	<circle id="Oxygen" fill="none" cx="29.356" cy="13.997" r="13.497"/>
+</g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="80.764px" height="74.496px" viewBox="0 0 80.764 74.496" enable-background="new 0 0 80.764 74.496" xml:space="preserve">
+<g id="object">
+	<path fill="#005500" stroke="#231F20" stroke-miterlimit="10" d="M57.779,42.123c-0.535-5.032-3.211-9.413-7.09-12.25H30.074
+		c-3.88,2.837-6.556,7.219-7.09,12.252l10.319,17.864c2.166,0.96,4.557,1.504,7.079,1.504s4.913-0.544,7.078-1.504L57.779,42.123z"
+		/>
+	<path fill="#00FF00" stroke="#231F20" stroke-miterlimit="10" d="M50.689,29.873c3.771-3.024,6.192-7.663,6.192-12.873
+		c0-9.113-7.388-16.5-16.5-16.5c-9.113,0-16.5,7.387-16.5,16.5c0,5.21,2.421,9.85,6.192,12.873H50.689z"/>
+	<path fill="#00FF00" stroke="#231F20" stroke-miterlimit="10" d="M22.984,42.125c-4.502-1.749-9.724-1.523-14.231,1.079
+		C0.859,47.761-1.843,57.851,2.714,65.743s14.646,10.596,22.539,6.039c4.51-2.604,7.316-7.018,8.05-11.793L22.984,42.125z"/>
+	<path fill="#00FF00" stroke="#231F20" stroke-miterlimit="10" d="M72.012,43.203c-4.508-2.603-9.73-2.828-14.232-1.08L47.46,59.989
+		c0.735,4.775,3.541,9.189,8.052,11.793c7.891,4.556,17.982,1.853,22.539-6.04C82.607,57.851,79.902,47.761,72.012,43.203z"/>
+</g>
+<g id="circles">
+	<circle id="Chlorine_2_" fill="none" cx="40.382" cy="17" r="16.5"/>
+	<circle id="Chlorine_1_" fill="none" cx="63.862" cy="57.495" r="16.5"/>
+	<circle id="Chlorine" fill="none" cx="16.901" cy="57.495" r="16.5"/>
+	<circle id="Phosphorus" fill="none" cx="40.382" cy="44.114" r="17.379"/>
+</g>
+</svg>

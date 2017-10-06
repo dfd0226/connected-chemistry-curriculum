@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="69.5px"
+	 height="30px" viewBox="0 0 69.5 30" enable-background="new 0 0 69.5 30" xml:space="preserve">
+<g id="object">
+	<g>
+		<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M20.647,7.435C18.539,5.027,15.451,3.5,12,3.5
+			C5.649,3.5,0.5,8.648,0.5,15c0,6.352,5.149,11.5,11.5,11.5c3.451,0,6.539-1.527,8.647-3.936V7.435z"/>
+		<path fill="#2F2F2F" stroke="#000000" stroke-miterlimit="10" d="M45.393,7.5c-2.541-4.191-7.132-7-12.393-7
+			c-5.232,0-9.803,2.78-12.353,6.935v15.129C23.197,26.719,27.768,29.5,33,29.5c5.261,0,9.852-2.81,12.393-7V7.5z"/>
+		<path fill="#0000FF" stroke="#000000" stroke-miterlimit="10" d="M56,2c-4.384,0-8.252,2.176-10.607,5.5v15
+			C47.748,25.824,51.616,28,56,28c7.18,0,13-5.82,13-13S63.18,2,56,2z"/>
+	</g>
+</g>
+<g id="circles">
+	<circle id="Hydrogen" fill="none" cx="12" cy="15" r="11.5"/>
+	<circle id="Carbon" fill="none" cx="33.02" cy="15" r="14.5"/>
+	<circle id="Nitrogen" fill="none" cx="56" cy="15" r="13"/>
+</g>
+</svg>

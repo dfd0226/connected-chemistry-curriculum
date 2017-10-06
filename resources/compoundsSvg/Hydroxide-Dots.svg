@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="67px"
+	 height="40px" viewBox="0 0 67 40" enable-background="new 0 0 67 40" xml:space="preserve">
+<g id="object">
+	<circle fill="#FFFFFF" stroke="#1D1D1B" stroke-miterlimit="10" cx="55" cy="20" r="11.5"/>
+	<circle fill="#231F20" cx="38.5" cy="17" r="1.5"/>
+	<circle fill="#231F20" cx="38.5" cy="23" r="1.5"/>
+	<circle fill="#231F20" cx="17" cy="1.5" r="1.5"/>
+	<circle fill="#231F20" cx="23" cy="1.5" r="1.5"/>
+	<circle fill="#231F20" cx="1.5" cy="23" r="1.5"/>
+	<circle fill="#231F20" cx="1.5" cy="17" r="1.5"/>
+	<circle fill="#231F20" cx="23.001" cy="38.5" r="1.5"/>
+	<circle fill="#231F20" cx="17.001" cy="38.5" r="1.5"/>
+	<circle fill="#FF0000" stroke="#000000" stroke-miterlimit="10" cx="20.001" cy="20" r="13.5"/>
+</g>
+<g id="circles">
+	<circle id="Hydrogen" fill="none" cx="55" cy="20" r="11.5"/>
+	<circle id="Dot_7_" fill="none" cx="38.5" cy="17" r="1.5"/>
+	<circle id="Dot_6_" fill="none" cx="38.5" cy="23" r="1.5"/>
+	<circle id="Dot_5_" fill="none" cx="17" cy="1.5" r="1.5"/>
+	<circle id="Dot_4_" fill="none" cx="23" cy="1.5" r="1.5"/>
+	<circle id="Dot_3_" fill="none" cx="1.5" cy="23" r="1.5"/>
+	<circle id="Dot_2_" fill="none" cx="1.5" cy="17" r="1.5"/>
+	<circle id="Dot_1_" fill="none" cx="23.001" cy="38.5" r="1.5"/>
+	<circle id="Dot" fill="none" cx="17.001" cy="38.5" r="1.5"/>
+	<circle id="Oxygen" fill="none" cx="20.001" cy="20" r="13.5"/>
+</g>
+</svg>

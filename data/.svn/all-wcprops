@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/31/trunk/src/model
+END
+State.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/31/trunk/src/model/State.java
+END
+chemdb
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/19/trunk/src/model/chemdb
+END
+YAMLinterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/trunk/src/model/YAMLinterface.java
+END
+DBinterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/18/trunk/src/model/DBinterface.java
+END
+sims.yml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/31/trunk/src/model/sims.yml
+END

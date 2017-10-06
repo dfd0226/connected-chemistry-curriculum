@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="72px"
+	 height="72px" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<g id="object">
+	<g>
+		<radialGradient id="SVGID_1_" cx="16.8833" cy="16.6226" r="61.7497" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#00AEEF"/>
+			<stop  offset="0.0851" style="stop-color:#00A8E9"/>
+			<stop  offset="0.1823" style="stop-color:#009EDE"/>
+			<stop  offset="0.2855" style="stop-color:#008ECE"/>
+			<stop  offset="0.3929" style="stop-color:#007AB8"/>
+			<stop  offset="0.5036" style="stop-color:#00619E"/>
+			<stop  offset="0.617" style="stop-color:#004482"/>
+			<stop  offset="0.7304" style="stop-color:#0B2265"/>
+			<stop  offset="0.7853" style="stop-color:#150958"/>
+			<stop  offset="0.8981" style="stop-color:#242176"/>
+			<stop  offset="1" style="stop-color:#2E3192"/>
+		</radialGradient>
+		<path fill="url(#SVGID_1_)" d="M71.826,35.83C71.826,16.044,55.791,0,36,0C16.214,0,0.175,16.044,0.175,35.83
+			S16.214,71.655,36,71.655C55.791,71.655,71.826,55.616,71.826,35.83z"/>
+	</g>
+	<polygon fill="#231F20" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" points="32.45,44.191 23.401,59.864 
+		14.352,44.191 	"/>
+	<polygon fill="#231F20" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" points="57.65,44.191 48.601,59.864 
+		39.552,44.191 	"/>
+	<polygon fill="#FFFFFF" stroke="#231F20" stroke-width="3" stroke-miterlimit="10" points="27.126,27.464 36.175,11.791 
+		45.224,27.464 	"/>
+</g>
+<g id="circles">
+	<circle id="Neutron" fill="none" cx="36" cy="36" r="36"/>
+</g>
+</svg>

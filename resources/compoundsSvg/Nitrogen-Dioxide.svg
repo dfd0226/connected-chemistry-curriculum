@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="65.26px"
+	 height="38.291px" viewBox="0 0 65.26 38.291" enable-background="new 0 0 65.26 38.291" xml:space="preserve">
+<g id="object">
+	<g>
+		<path fill="#FF0000" stroke="#231F20" stroke-miterlimit="10" d="M58.006,12.597c-4.022-2.322-8.742-2.337-12.631-0.459
+			l-7.573,13.199c0.337,4.283,2.704,8.333,6.706,10.644c6.458,3.727,14.713,1.516,18.441-4.942
+			C66.677,24.58,64.464,16.324,58.006,12.597z"/>
+		<path fill="#FF0000" stroke="#231F20" stroke-miterlimit="10" d="M19.56,11.877c-3.83-1.729-8.404-1.661-12.318,0.604
+			c-6.453,3.734-8.658,11.992-4.924,18.446c3.733,6.453,11.991,8.658,18.445,4.924c3.909-2.262,6.246-6.185,6.662-10.36
+			L19.56,11.877z"/>
+		<path fill="#0000FF" stroke="#231F20" stroke-miterlimit="10" d="M45.375,12.138C44.695,5.598,39.167,0.5,32.448,0.5
+			c-6.629,0-12.088,4.965-12.889,11.377l7.865,13.614c1.546,0.648,3.243,1.009,5.024,1.009c1.911,0,3.719-0.423,5.354-1.163
+			L45.375,12.138z"/>
+	</g>
+</g>
+<g id="circles">
+	<circle id="Oxygen_1_" fill="none" cx="13.962" cy="24.217" r="13.43"/>
+	<circle id="Oxygen" fill="none" cx="51.281" cy="24.159" r="13.487"/>
+	<circle id="Nitrogen" fill="none" cx="32.467" cy="13.5" r="13"/>
+</g>
+</svg>

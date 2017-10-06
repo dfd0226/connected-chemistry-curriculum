@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="74px"
+	 height="30px" viewBox="0 0 74 30" enable-background="new 0 0 74 30" xml:space="preserve">
+<g id="object">
+	<g>
+		<path fill="#2F2F2F" stroke="#000000" stroke-miterlimit="10" d="M49.113,7.04C46.521,3.103,42.066,0.5,37,0.5
+			s-9.521,2.603-12.113,6.541v15.918C27.479,26.896,31.934,29.5,37,29.5s9.521-2.604,12.113-6.54V7.04z"/>
+		<path fill="#FF0000" stroke="#000000" stroke-miterlimit="10" d="M24.887,7.041C22.431,3.687,18.476,1.5,14,1.5
+			C6.544,1.5,0.5,7.544,0.5,15S6.544,28.5,14,28.5c4.476,0,8.431-2.187,10.887-5.541V7.041z"/>
+		<path fill="#FF0000" stroke="#000000" stroke-miterlimit="10" d="M60,1.5c-4.476,0-8.431,2.187-10.887,5.54v15.92
+			c2.456,3.354,6.41,5.54,10.887,5.54c7.455,0,13.5-6.044,13.5-13.5S67.455,1.5,60,1.5z"/>
+	</g>
+</g>
+<g id="circles">
+	<circle id="Oxygen_1_" fill="none" cx="14" cy="15" r="13.5"/>
+	<circle id="Oxygen" fill="none" cx="60" cy="15" r="13.5"/>
+	<circle id="Carbon" fill="none" cx="37" cy="15" r="14.5"/>
+</g>
+</svg>

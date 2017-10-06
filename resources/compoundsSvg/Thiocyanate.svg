@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="89px"
+	 height="44px" viewBox="0 0 89 44" enable-background="new 0 0 89 44" xml:space="preserve">
+<g id="object">
+	<path fill="#B1B1B1" d="M71,4c-3.635,0-7.086,1.076-10.004,3.041C57.538,4.141,53.146,2.5,48.5,2.5
+		c-4.089,0-8.031,1.309-11.297,3.636C33.157,2.265,27.725,0,22,0C9.869,0,0,9.869,0,22s9.869,22,22,22
+		c5.725,0,11.158-2.266,15.203-6.137C40.469,40.19,44.412,41.5,48.5,41.5c4.646,0,9.038-1.641,12.496-4.54
+		C63.914,38.924,67.365,40,71,40c9.925,0,18-8.075,18-18C89,12.075,80.925,4,71,4z"/>
+	<g>
+		<path fill="#2F2F2F" stroke="#000000" stroke-miterlimit="10" d="M60.669,14.131C58.086,10.144,53.606,7.5,48.5,7.5
+			c-4.85,0-9.132,2.39-11.765,6.046v16.907C39.368,34.11,43.65,36.5,48.5,36.5c5.105,0,9.586-2.645,12.169-6.632V14.131z"/>
+		<path fill="#0000FF" stroke="#000000" stroke-miterlimit="10" d="M71,9c-4.218,0-7.956,2.018-10.331,5.131v15.737
+			C63.044,32.982,66.781,35,71,35c7.18,0,13-5.82,13-13S78.18,9,71,9z"/>
+		<path fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" d="M36.735,13.546C33.801,8.444,28.308,5,22,5
+			C12.611,5,5,12.611,5,22s7.611,17,17,17c6.308,0,11.802-3.444,14.735-8.547V13.546z"/>
+	</g>
+</g>
+<g id="circles">
+	<circle id="Sulfur-Ion" fill="none" cx="22" cy="22" r="21.984"/>
+	<circle id="Nitrogen-Ion" fill="none" cx="71" cy="22" r="18"/>
+	<circle id="Carbon-Ion" fill="none" cx="48.345" cy="22" r="19.5"/>
+</g>
+</svg>

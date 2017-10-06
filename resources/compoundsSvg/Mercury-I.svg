@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="84px"
+	 height="50px" viewBox="0 0 84 50" enable-background="new 0 0 84 50" xml:space="preserve">
+<g id="object">
+	<path fill="#B1B1B1" d="M59,0c-6.429,0-12.442,2.419-17,6.676C37.442,2.419,31.429,0,25,0C11.215,0,0,11.215,0,25s11.215,25,25,25
+		c6.429,0,12.442-2.419,17-6.677C46.558,47.581,52.571,50,59,50c13.785,0,25-11.215,25-25S72.785,0,59,0z"/>
+	<g>
+		<path fill="#5555A9" stroke="#000000" stroke-miterlimit="10" d="M42,14.501C38.476,8.806,32.19,5,25,5C13.954,5,5,13.953,5,25
+			c0,11.045,8.954,20,20,20c7.19,0,13.476-3.807,17-9.502V14.501z"/>
+		<path fill="#5555A9" stroke="#000000" stroke-miterlimit="10" d="M59,5c-7.19,0-13.476,3.806-17,9.501v20.997
+			C45.524,41.193,51.81,45,59,45c11.046,0,20-8.955,20-20C79,13.953,70.046,5,59,5z"/>
+	</g>
+</g>
+<g id="circles">
+	<circle id="Mercury-Ion_1_" fill="none" cx="25" cy="25" r="25"/>
+	<circle id="Mercury-Ion" fill="none" cx="59" cy="25" r="25"/>
+</g>
+</svg>

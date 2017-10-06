@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="89.823px" height="60.251px" viewBox="0 0 89.823 60.251" enable-background="new 0 0 89.823 60.251" xml:space="preserve">
+<g id="object">
+	<path fill="#FF0000" stroke="#231F20" stroke-miterlimit="10" d="M19.883,33.84c-3.832-1.851-8.472-1.874-12.468,0.362
+		C0.906,37.84-1.42,46.065,2.221,52.573c3.639,6.507,11.864,8.833,18.372,5.193c3.996-2.235,6.406-6.2,6.834-10.435L19.883,33.84z"
+		/>
+	<path fill="#0000FF" stroke="#231F20" stroke-miterlimit="10" d="M45.681,34.017c-0.189-1.663-0.703-3.317-1.571-4.869
+		c-0.929-1.662-2.175-3.03-3.611-4.093l-15.467,0.001c-2.914,2.154-4.706,5.359-5.148,8.784l7.544,13.492
+		c3.251,1.463,7.058,1.589,10.506,0.09L45.681,34.017z"/>
+	<path fill="#FF0000" stroke="#231F20" stroke-miterlimit="10" d="M40.498,25.055c3.482-2.441,5.766-6.478,5.766-11.055
+		c0-7.456-6.044-13.5-13.5-13.5s-13.5,6.044-13.5,13.5c0,4.578,2.284,8.615,5.768,11.056L40.498,25.055z"/>
+	<path fill="#00FF00" stroke="#231F20" stroke-miterlimit="10" d="M72.823,16.251c-9.113,0-16.5,7.388-16.5,16.5
+		c0,0.327,0.03,0.647,0.049,0.969l8.457,13.461c2.369,1.315,5.092,2.07,7.994,2.07c9.113,0,16.5-7.387,16.5-16.5
+		C89.323,23.639,81.937,16.251,72.823,16.251z"/>
+	<path fill="#FF0000" stroke="#231F20" stroke-miterlimit="10" d="M56.372,33.721c-3.528-1.411-7.394-1.235-10.691,0.296
+		l-7.747,13.405c0.373,4.234,2.726,8.227,6.686,10.515c6.455,3.731,14.713,1.522,18.443-4.934c1.064-1.843,1.63-3.832,1.767-5.821
+		L56.372,33.721z"/>
+</g>
+<g id="outline">
+	<circle id="Oxygen_2_" fill="none" cx="32.782" cy="13.982" r="13.482"/>
+	<circle id="Oxygen_1_" fill="none" cx="51.381" cy="46.254" r="13.482"/>
+	<circle id="Chlorine" fill="none" cx="72.822" cy="32.751" r="16.5"/>
+	<circle id="Nitrogen" fill="none" cx="32.764" cy="35.489" r="13.001"/>
+	<circle id="Oxygen" fill="none" cx="13.964" cy="45.986" r="13.5"/>
+</g>
+</svg>

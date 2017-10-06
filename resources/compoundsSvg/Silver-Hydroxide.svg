@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="45px" viewBox="0 0 100 45" enable-background="new 0 0 100 45" xml:space="preserve">
+<g id="object">
+	<path fill="#B1B1B1" d="M83.5,6c-2.932,0-5.762,0.789-8.242,2.224C71.989,5.526,67.856,4,63.5,4C53.299,4,45,12.299,45,22.5
+		S53.299,41,63.5,41c4.355,0,8.487-1.527,11.757-4.225C77.737,38.211,80.568,39,83.5,39c9.098,0,16.5-7.402,16.5-16.5
+		C100,13.402,92.598,6,83.5,6z"/>
+	<path fill="#B1B1B1" d="M22.5,0C10.093,0,0,10.093,0,22.5C0,34.906,10.093,45,22.5,45S45,34.906,45,22.5C45,10.093,34.907,0,22.5,0
+		z"/>
+	<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M83.5,11c-3.505,0-6.639,1.573-8.748,4.046v14.907
+		C76.861,32.427,79.995,34,83.5,34C89.851,34,95,28.852,95,22.5C95,16.149,89.851,11,83.5,11z"/>
+	<path fill="#FF0000" stroke="#000000" stroke-miterlimit="10" d="M74.752,15.046C72.335,11.403,68.2,9,63.5,9
+		C56.044,9,50,15.042,50,22.5C50,29.955,56.044,36,63.5,36c4.699,0,8.834-2.404,11.252-6.047V15.046z"/>
+	<circle fill="#A9A9FF" stroke="#000000" stroke-miterlimit="10" cx="22.5" cy="22.5" r="17.5"/>
+</g>
+<g id="circles">
+	<circle id="Silver-Ion" fill="none" cx="22.5" cy="22.5" r="22.5"/>
+	<circle id="Oxygen-Ion" fill="none" cx="63.504" cy="22.5" r="18.5"/>
+	<circle id="Hydrogen-Ion" fill="none" cx="83.504" cy="22.5" r="16.492"/>
+</g>
+</svg>

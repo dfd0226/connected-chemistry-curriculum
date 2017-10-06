@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/493/trunk/jbox2d-library/src/main/java/org/jbox2d/pooling
+END
+MutableStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/pooling/MutableStack.java
+END
+WorldPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/pooling/WorldPool.java
+END
+IDynamicStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/pooling/IDynamicStack.java
+END
+IOrderedStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/pooling/IOrderedStack.java
+END
+IWorldPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/pooling/IWorldPool.java
+END
+OrderedStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/469/trunk/jbox2d-library/src/main/java/org/jbox2d/pooling/OrderedStack.java
+END

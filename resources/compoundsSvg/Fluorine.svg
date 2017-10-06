@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="51px"
+	 height="29px" viewBox="0 0 51 29" enable-background="new 0 0 51 29" xml:space="preserve">
+<g id="object">
+	<g>
+		<path fill="#A9FFFF" stroke="#000000" stroke-miterlimit="10" d="M25.5,5.858C22.937,2.6,18.968,0.5,14.5,0.5
+			c-7.732,0-14,6.268-14,14s6.268,14,14,14c4.468,0,8.437-2.1,11-5.357V5.858z"/>
+		<path fill="#A9FFFF" stroke="#000000" stroke-miterlimit="10" d="M36.5,0.5c-4.468,0-8.437,2.1-11,5.358v17.285
+			c2.563,3.258,6.532,5.357,11,5.357c7.732,0,14-6.268,14-14S44.232,0.5,36.5,0.5z"/>
+	</g>
+</g>
+<g id="circles">
+	<circle id="Chlorine_1_" fill="none" cx="14.5" cy="14.5" r="14"/>
+	<circle id="Chlorine" fill="none" cx="36.5" cy="14.5" r="14"/>
+</g>
+</svg>

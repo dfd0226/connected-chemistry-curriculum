@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="63px"
+	 height="39px" viewBox="0 0 63 39" enable-background="new 0 0 63 39" xml:space="preserve">
+<g id="object">
+	<path fill="#B1B1B1" d="M43.5,0c-4.526,0-8.688,1.564-12,4.162C28.188,1.564,24.026,0,19.5,0C8.748,0,0,8.748,0,19.5
+		C0,30.252,8.748,39,19.5,39c4.526,0,8.688-1.564,12-4.162C34.812,37.436,38.974,39,43.5,39C54.252,39,63,30.252,63,19.5
+		C63,8.748,54.252,0,43.5,0z"/>
+	<g>
+		<path fill="#2F2F2F" stroke="#000000" stroke-miterlimit="10" d="M31.5,11.361C28.892,7.522,24.492,5,19.5,5
+			C11.492,5,5,11.491,5,19.5C5,27.508,11.492,34,19.5,34c4.992,0,9.392-2.522,12-6.361V11.361z"/>
+		<path fill="#2F2F2F" stroke="#000000" stroke-miterlimit="10" d="M43.5,5c-4.99,0-9.391,2.522-12,6.361v16.278
+			C34.109,31.478,38.51,34,43.5,34C51.51,34,58,27.508,58,19.5C58,11.491,51.51,5,43.5,5z"/>
+	</g>
+</g>
+<g id="circles">
+	<circle id="Carbon-Ion_1_" fill="none" cx="19.5" cy="19.5" r="19.5"/>
+	<circle id="Carbon-Ion" fill="none" cx="43.5" cy="19.5" r="19.5"/>
+</g>
+</svg>

@@ -1,0 +1,125 @@
+package model;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+
+import java.io.FileReader;
+import java.sql.*;
+
+import com.esotericsoftware.yamlbeans.YamlReader;
+
+public class YAMLinterface {
+	static Object object = new Object();
+
+
+	public static Map getYamlText() {
+		try {
+			YamlReader reader = new YamlReader(new FileReader("src/model/sims.yml"));
+			object = reader.read();
+		} catch (Exception e) {
+			System.out.println("Error: " + e);
+		}
+		//System.out.println(object);
+		Map map = (Map)object;
+		//System.out.println(map.get("address"));
+		//output = (String)yaml.get("address");
+
+		return map;
+	}
+
+
+	/***
+	 * Unit Functions
+	 */
+	public static ArrayList getUnits() {
+		ArrayList yaml = (ArrayList)getYamlText().get("units");
+
+		return yaml;
+	}
+
+	public static HashMap getUnit(int unitNumber) {
+		ArrayList units = getUnits();
+		HashMap unit = new HashMap();
+
+		for (int i = 0; i<units.size(); i++) {
+			unit = (HashMap)units.get(i);
+			int n = Integer.parseInt((String)unit.get("unit"));
+			if (unitNumber == n) {
+				return unit;
+			}
+		}
+		return null;
+	}
+	
+	public static String getUnitName(int unitNumber) {
+		HashMap unit = getUnit(unitNumber);
+		String unitName = (String)unit.get("name");
+		return unitName;
+	}
+	
+	
+
+	/***
+	 * Sim Functions
+	 */
+
+	public static ArrayList getSims(int unitNumber) {
+		HashMap unit = getUnit(unitNumber);
+		ArrayList sims = (ArrayList)unit.get("sims");
+		return sims;
+	}
+	
+	public static HashMap getSim(int unitNumber, int simNumber) {
+		ArrayList sims = getSims(unitNumber);
+		HashMap sim = new HashMap();
+
+		for (int i = 0; i<sims.size(); i++) {
+			sim = (HashMap)sims.get(i);
+			int n = Integer.parseInt((String)sim.get("sim"));
+			if (simNumber == n) {
+				return sim;
+			}
+		}
+		return null;
+	}
+
+	public static String getSimName(int unitNumber, int simNumber) {
+		HashMap sim = getSim(unitNumber, simNumber);
+		String simName = (String)sim.get("name");
+		return simName;
+	}
+
+	/***
+	 * Set Functions
+	 */
+	
+	public static ArrayList getSets(int unitNumber, int simNumber) {
+		HashMap sim = getSim(unitNumber, simNumber);
+		ArrayList sets = (ArrayList)sim.get("sets");
+		return sets;
+	}
+	
+	public static HashMap getSet(int unitNumber, int simNumber, int setNumber) {
+		ArrayList sets = getSets(unitNumber, simNumber);
+		HashMap set = new HashMap();
+
+		for (int i = 0; i<sets.size(); i++) {
+			set = (HashMap)sets.get(i);
+			int n = Integer.parseInt((String)set.get("set"));
+			if (setNumber == n) {
+				return set;
+			}
+		}
+		return null;
+	}
+
+	public static ArrayList getSetCompounds(int unitNumber, int simNumber, int setNumber) {
+		HashMap set = getSet(unitNumber, simNumber, setNumber);
+		ArrayList compounds = (ArrayList)set.get("compounds");
+		return compounds;
+	}
+	
+	
+}

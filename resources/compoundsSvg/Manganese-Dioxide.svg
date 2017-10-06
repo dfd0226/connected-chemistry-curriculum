@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="120px"
+	 height="46px" viewBox="0 0 120 46" enable-background="new 0 0 120 46" xml:space="preserve">
+<g id="object">
+	<path fill="#B1B1B1" d="M18.5,4.5C8.299,4.5,0,12.799,0,23s8.299,18.5,18.5,18.5S37,33.201,37,23S28.701,4.5,18.5,4.5z"/>
+	<path fill="#B1B1B1" d="M101.5,4.5C91.299,4.5,83,12.799,83,23s8.299,18.5,18.5,18.5S120,33.201,120,23S111.701,4.5,101.5,4.5z"/>
+	<path fill="#B1B1B1" d="M60,0C47.318,0,37,10.318,37,23c0,12.683,10.318,23,23,23s23-10.317,23-23C83,10.318,72.682,0,60,0z"/>
+	<circle fill="#FF0000" stroke="#000000" stroke-miterlimit="10" cx="18.5" cy="23" r="13.5"/>
+	<circle fill="#FF0000" stroke="#000000" stroke-miterlimit="10" cx="101.5" cy="23" r="13.5"/>
+	<circle fill="#A9A955" stroke="#000000" stroke-miterlimit="10" cx="60" cy="23" r="18"/>
+</g>
+<g id="circles">
+	<circle id="Oxygen-Ion_1_" fill="none" cx="18.5" cy="23" r="18.467"/>
+	<circle id="Oxygen-Ion" fill="none" cx="101.5" cy="23" r="18.467"/>
+	<circle id="Manganese-Ion" fill="none" cx="60" cy="23" r="23"/>
+</g>
+</svg>

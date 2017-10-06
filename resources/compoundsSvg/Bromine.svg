@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="85px"
+	 height="49px" viewBox="0 0 85 49" enable-background="new 0 0 85 49" xml:space="preserve">
+<g id="object">
+	<g>
+		<path fill="#005555" stroke="#000000" stroke-miterlimit="10" d="M42.5,8.634C38.102,3.648,31.67,0.5,24.5,0.5
+			c-13.255,0-24,10.745-24,24s10.745,24,24,24c7.17,0,13.602-3.148,18-8.134V8.634z"/>
+		<path fill="#005555" stroke="#000000" stroke-miterlimit="10" d="M60.5,0.5c-7.171,0-13.603,3.148-18,8.134v31.732
+			c4.397,4.985,10.829,8.134,18,8.134c13.254,0,24-10.745,24-24S73.754,0.5,60.5,0.5z"/>
+	</g>
+</g>
+<g id="circles">
+	<circle id="Bromine_1_" fill="none" cx="24.499" cy="24.501" r="23.999"/>
+	<circle id="Bromine" fill="none" cx="60.501" cy="24.501" r="23.999"/>
+</g>
+</svg>

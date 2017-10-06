@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="68.841px" height="43.503px" viewBox="0 0 68.841 43.503" enable-background="new 0 0 68.841 43.503" xml:space="preserve">
+<g id="object">
+	<circle fill="#A9FFFF" stroke="#000000" stroke-miterlimit="10" cx="51.42" cy="14.5" r="14"/>
+	<circle fill="#A9FFFF" stroke="#000000" stroke-miterlimit="10" cx="17.42" cy="15.01" r="14"/>
+	<circle fill="#FFFF00" stroke="#000000" stroke-miterlimit="10" cx="34.42" cy="17.5" r="17"/>
+	<g>
+		<path fill="#A9FFFF" stroke="#000000" stroke-miterlimit="10" d="M61.339,16.877c-3.173-1.832-6.761-2.266-10.073-1.52
+			c-3.679,0.83-11.399,14.203-10.279,17.805c1.01,3.241,3.18,6.131,6.353,7.963c6.696,3.866,15.258,1.572,19.124-5.125
+			C70.33,29.305,68.036,20.742,61.339,16.877z"/>
+	</g>
+	<g>
+		<path fill="#A9FFFF" stroke="#000000" stroke-miterlimit="10" d="M21.502,41.125c3.172-1.832,5.342-4.723,6.352-7.964
+			c1.121-3.602-6.6-16.974-10.279-17.804c-3.312-0.747-6.9-0.312-10.072,1.519C0.806,20.742-1.488,29.304,2.377,36
+			C6.245,42.697,14.806,44.99,21.502,41.125z"/>
+	</g>
+</g>
+<g id="circles">
+	<circle id="Sulfur" fill="none" cx="34.42" cy="17.5" r="17"/>
+	<circle id="Fluorine_3_" fill="none" cx="14.496" cy="29.006" r="13.997"/>
+	<circle id="Fluorine_2_" fill="none" cx="17.419" cy="15.007" r="13.997"/>
+	<circle id="Fluorine_1_" fill="none" cx="51.419" cy="14.5" r="13.997"/>
+	<circle id="Fluorine" fill="none" cx="54.345" cy="29.004" r="13.997"/>
+</g>
+</svg>
