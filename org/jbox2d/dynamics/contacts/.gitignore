@@ -1,0 +1,16 @@
+/CircleContact.class
+/Contact.class
+/ContactConstraint.class
+/ContactConstraintPoint.class
+/ContactCreator.class
+/ContactEdge.class
+/ContactPoint.class
+/ContactRegister.class
+/ContactResult.class
+/ContactSolver.class
+/PolygonAndCircleContact.class
+/PolygonContact.class
+/PositionSolverManifold.class
+/TOIConstraint.class
+/TOISolver.class
+/TOISolverManifold.class

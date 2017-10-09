@@ -1,0 +1,15 @@
+/Body.class
+/BodyDef.class
+/BodyType.class
+/ContactListener.class
+/ContactManager.class
+/Filter.class
+/Fixture.class
+/FixtureDef.class
+/Island.class
+/Position.class
+/TimeStep.class
+/Velocity.class
+/World.class
+/WorldQueryWrapper.class
+/WorldRayCastWrapper.class
